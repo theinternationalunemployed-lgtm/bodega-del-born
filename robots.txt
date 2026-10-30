@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theinternationalunemployed-lgtm.github.io/bodega-del-born/sitemap.xml
